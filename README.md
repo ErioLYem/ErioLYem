@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, my name is Danil!
+I have two degrees: one is a specialized secondary, the second is an incomplete higher education.
+
+I took additional courses in system administration.
+
+I like to study, to learn something new for myself. I love pets, read books and watch movies.
+
+I studied programming languages: C#, Python, Delphi, C++, Pascal.
 
 <!--
 **ErioLYem/ErioLYem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
