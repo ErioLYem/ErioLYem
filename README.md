@@ -2,7 +2,7 @@
 <H2>A novice developer / Junior Developer</H2>
 <p>My interest in programming appeared in high school, I went to college, graduated from it as a programmer technician and continued at the university (NARFU). I am currently studying in the field of Computer Science and Computing Systems</p>
 
-* 🌍 I live in Arangelsk
+* 🌍 I live in Arkhangelsk
 * ✉️ You can contact me at [danil.kapralov1998@mail.ru](mailto:danil.kapralov1998@mail.ru)
 * 🧠 I am studying Neural Networks
 * 🤝 I am open to cooperation on interesting projects.
